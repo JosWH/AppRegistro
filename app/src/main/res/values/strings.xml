@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppRegistro</string>
+    <string name="Button_text">Registrar</string>
+    <string name="Name_Text">Nombre</string>
+    <string name="LastName_Text">Apelldo</string>
+    <string name="Email_Text">Correo</string>
+    <string name="Phone_Text">Telefono</string>
+    <string name="Score_Text">Nota</string>
+</resources>
