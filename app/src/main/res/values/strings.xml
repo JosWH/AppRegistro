@@ -5,5 +5,5 @@
     <string name="LastName_Text">Apelldo</string>
     <string name="Email_Text">Correo</string>
     <string name="Phone_Text">Telefono</string>
-    <string name="Score_Text">Nota</string>
+    <string name="Code_Text">Codigo de Estudiante</string>
 </resources>

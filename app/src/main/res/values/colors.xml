@@ -4,8 +4,8 @@
     <color name="primary_light">#39796b</color>
     <color name="primary_dark">#00251a</color>
 
-    <color name="secundary">#E0F2F1</color>
-    <color name="secundary_light">#FFFFFF</color>
+    <color name="secundary">#00A89F</color>
+    <color name="secundary_light">#6FFBFF</color>
     <color name="secundary_dark">#AEBFBE</color>
 
     <color name="black">#000000</color>
